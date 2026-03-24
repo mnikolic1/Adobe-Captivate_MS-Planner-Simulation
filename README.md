@@ -1,7 +1,9 @@
 # Adobe-Captivate_MS-Planner-Simulation
 **Technical Stack**
 Authoring Tool: Adobe Captivate (HTML5)
+
 Methodology: Scenario-Based Learning (SBL)
+
 Deployment: GitHub Pages  
 
 **Project:**
