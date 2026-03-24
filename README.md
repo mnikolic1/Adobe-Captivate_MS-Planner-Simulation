@@ -26,5 +26,5 @@ Guided Simulation: A hands-on, risk-free environment where learners configure MS
 
 Critical Assessment: Interactive knowledge checks focused on situational decision-making rather than just button-clicking.
 
-Applied Project: A final capstone activity where learners must apply the transformation principles to a sample project to demonstrate mastery and skill transfer.
+Applied Project: A final activity where learners must apply the transformation principles to a sample project to demonstrate mastery and skill transfer.
 
