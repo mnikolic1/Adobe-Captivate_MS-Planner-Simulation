@@ -3,6 +3,8 @@
 
 Authoring Tool: Adobe Captivate (HTML5)
 
+Supporting Technology: Canva
+
 Methodology: Scenario-Based Learning (SBL)
 
 Deployment: GitHub Pages  
